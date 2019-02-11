@@ -25,7 +25,7 @@ ABS.starttls()
 ABS.login(username,'wromgsdgdfg')
 ABS.sendmail(from_email,to_list,'hello my name is mike here is my email app')
 ABS.quit()
-sd
+
 
 
 from smtplib import SMTP, SMTPAuthenticationError,SMTPException
